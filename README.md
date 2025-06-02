@@ -9,7 +9,11 @@ A robust web application for calculating shipping costs and providing delivery e
 - User-friendly interface
 
 ## Screenshot
+<<<<<<< Updated upstream
 ![Shipping Calculator Screenshot](/screenshot.png)
+=======
+![Shipping Calculator Screenshot](/Screenshot.png)
+>>>>>>> Stashed changes
 
 ## Live Demo
 [Try the Shipping Calculator Live](https://tinyu01.github.io/shipping-calculator/)
